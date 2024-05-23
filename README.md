@@ -4,7 +4,7 @@
 - 👀 I’m interested in becoming a Big Data Engineer
 - 🌱 I’m currently learning Data Analysis techniques and tools
 - 💞️ I’m looking to collaborate on open-source projects related to big data and analytics
-- 📫 How to reach me: You can reach me via email at prabhu.shankar@example.com or connect with me on LinkedIn at linkedin.com/in/prabhu-shankar-s
+- 📫 How to reach me: You can reach me via email at prabhushankaras469@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/prabhushankara-s-3508922a4
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
