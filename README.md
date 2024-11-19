@@ -1,10 +1,9 @@
-
 👋 Hi, I’m @PRABHU-SHANKAR-S
 
-- 👀 I’m interested in becoming a Big Data Engineer
-- 🌱 I’m currently learning Data Analysis techniques and tools
-- 💞️ I’m looking to collaborate on open-source projects related to big data and analytics
-- 📫 How to reach me: You can reach me via email at prabhushankaras469@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/prabhushankara-s
+- 👀 I want the role of Big Data Engineer
+- 🌱 Currently exploring Data Analysis Techniques & Tools
+- 💞️  I am open to work on open-source projects involving big data and analytics
+- 📫 How to reach me: Email — prabhushankaras469@gmail.com, LinkedIn — www. linkedin. com/in/prabhushankara-s
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
