@@ -5,7 +5,7 @@
 - 💞️  I am open to work on open-source projects involving big data and analytics
 - 📫 How to reach me: Email — prabhushankaras469@gmail.com, LinkedIn — www.linkedin.com/in/prabhushankara-s
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+- ⚡ Fun fact: I can solve a Rubik's cube in under 1 minutes!
 
 ### Objectives
 
