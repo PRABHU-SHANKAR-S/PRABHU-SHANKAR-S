@@ -4,8 +4,8 @@
 - 🌱 Currently exploring **Data Analysis Techniques** & **Tools** and working on enhancing my skills in Python, SQL, Advanced Excel, Power BI and Data Visualization.
 - 💞️ I am open to working on **open-source projects** related to data analysis and big data analytics.
 - 📫 How to reach me:  
-   - Email: [prabhushankaras469@gmail.com](mailto:successjourneywithit08@gmail.com)  
-   - LinkedIn: [www.linkedin.com/in/prabhushankara-s](http://www.linkedin.com/in/prabhushankara-s)
+   - Email: [successjourneywithit08@gmail.com](mailto:successjourneywithit08@gmail.com)  
+   - LinkedIn: [http://www.linkedin.com/in/prabhushankara-s](http://www.linkedin.com/in/prabhushankara-s)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under 1 minute!
 
